@@ -1,0 +1,11 @@
+body {
+    background-image: url("/public/img/court.png")
+}
+.jumbotron {
+    
+    background-image: url("/public/img/lbjposter.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
